@@ -28,4 +28,4 @@ def run_dobot():
     dobot_dll.DisconnectDobot(dobot_api)
 
 if __name__ == "__main__":
-  run_dobot.start()
+  run_dobot()
